@@ -4,11 +4,11 @@ Taskify is a simple and lightweight command-line application written in Kotlin t
 
 ## Features
 
-- Add new tasks quickly  
-- View all current tasks  
-- Search tasks by keyword  
-- Remove tasks by their number  
-- Simple and intuitive CLI interface  
+1. Add task to list
+2. Display all the tasks with indexes
+3. Search for a task by name
+4. Remove a task by name
+5. Exit the program 
 
 ## Getting Started
 

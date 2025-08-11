@@ -1,6 +1,10 @@
 # Taskify
 
-Taskify is a simple and lightweight command-line application written in Kotlin to help you manage your daily tasks efficiently. It allows you to add, view, search, and remove tasks with ease, keeping your to-do list organized right from your terminal.
+<p align="center">
+  <img src="To-Do-List App/img/Task.png" alt="Taskify Logo" width="200">
+</p>
+
+**Taskify** is a simple and lightweight console application written in Kotlin to help you manage your daily tasks efficiently. It allows you to add, view, search, and remove tasks with ease, keeping your to-do list organized right from your terminal.
 
 ## Features
 
